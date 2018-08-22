@@ -1,0 +1,18 @@
+
+MOVIE-THIS REQUEST: Search Term: -Fight Club // Title: Fight Club // Year: 1999 // IMDB Rating: 8.8/10 // Rotten Tomoatoes Rating: 79% Country of Production: USA, Germany Language: English // Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more. // Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+
+MOVIE-THIS REQUEST: Search Term: -Fight Club // Title: Fight Club // Year: 1999 // IMDB Rating: 8.8/10 // Rotten Tomoatoes Rating: 79% Country of Production: USA, Germany Language: English // Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more. // Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+
+CONCERT THIS REQUEST: Search Term: -Third-Eye Blind // Venue Name: 4 Bears Casino & Lodge - Event Center // Location: New Town // Date: 08/25/18
+
+CONCERT THIS REQUEST: Search Term: -Rainbow-Kitten Surprise // Venue Name: The Jones Assembly // Location: Oklahoma City // Date: 08/21/18
+
+MOVIE-THIS REQUEST: Search Term:  Up // Title: The Change-Up // Year: 2011 // IMDB Rating: 6.3/10 // Rotten Tomoatoes Rating: 25% Country of Production: USA Language: English, Ukrainian // Plot: Dave is a married man with three kids and a loving wife, and Mitch is a single man who is at the prime of his sexual life. One fateful night while Mitch and Dave are peeing in a fountain, lightning strikes and they switch bodies. // Actors: Ryan Reynolds, Jason Bateman, Leslie Mann, Olivia Wilde
+
+SPOTIFY-THIS-SONG REQUEST : Search Term:  Blue // Artist(s): Drake // Song's Name: Blue Tint // Preview Link: null Album Name: Scorpion
+
+Search Term:  Blue
+Artist(s): Drake
+Song's Name: Blue Tint
+Preview Link: null
+Album Name: Scorpion
