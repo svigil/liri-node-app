@@ -16,3 +16,22 @@ Artist(s): Drake
 Song's Name: Blue Tint
 Preview Link: null
 Album Name: Scorpion
+
+Search Term: -Fever Pitch
+Artist(s): Fever
+Song's Name: Consequences
+Preview Link: https://p.scdn.co/mp3-preview/1ea84a1dffd575543583d48e59cf1ef3d2af1b70?cid=776fbe8bcf8e4148962b397f612846b8
+Album Name: FeverPitch EP
+
+CONCERT THIS REQUEST: Search Term: -Rainbow-Kitten Surprise
+Venue Name: The Jones Assembly
+Location: Oklahoma City
+Date: 08/21/18
+
+MOVIE-THIS REQUEST: Search Term:  Aladdin
+Title: Aladdin
+Year: 1992
+IMDB Rating: 8.0/10
+Rotten Tomoatoes Rating: 94% Country of Production: USA Language: English
+Plot: When a street urchin vies for the love of a beautiful princess, he uses a genie's magic power to make himself off as a prince in order to marry her.
+Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
